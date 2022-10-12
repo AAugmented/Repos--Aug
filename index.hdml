@@ -4,9 +4,12 @@
   <title>Life At Metro</title>
  </head>
  <body>
+ <br>
  
  <h1>Slideshow</h1>
- <p>Paragraph.</p>
- 
+ <p1>Paragraph.</p>
+ </br>
  </body>
+ <hr> 
+ <p2>Paragraph2</p2>
  </html>
