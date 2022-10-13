@@ -3,13 +3,11 @@
 <head>
   <title>Life At Metro</title>
  </head>
- <body>
+<body>
  <br>
- 
  <h1>Slideshow</h1>
  <p1>Paragraph.</p>
- </br>
- </body>
  <hr> 
- <p2>Paragraph2</p2>
- </html>
+<p2>Paragraph2</p2>
+</body>
+</html>
